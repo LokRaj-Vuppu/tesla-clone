@@ -83,12 +83,6 @@ npm run build
 
 ---
 
-## Screenshots
-
-> *(Add screenshots of desktop and mobile views here)*
-
----
-
 ## Original Design
 
 This project clones the **Tesla.com homepage** (as of 2021). All credit for design and branding goes to Tesla, Inc.
